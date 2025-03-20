@@ -1,0 +1,3 @@
+[submodule "submodules/utility-library"]
+	path = submodules/utility-library
+	url = https://github.com/sedTdem/utility-library.git
